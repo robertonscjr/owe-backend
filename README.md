@@ -1,4 +1,4 @@
-# ÒwE
+# ÒwE Monolithic
 
 Olá, seja bem vind ao repositório da implementação back-end do ÒwE. Aqui você encontrará informações sobre como fazer o 'deployment' e como chamar este serviço.
 
