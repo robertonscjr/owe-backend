@@ -12,6 +12,12 @@ ROUTES = {
         "description": "Get health of service",
         "http_verbs": ["GET"],
         "api_function": controller.health,
+    },
+    "/registerUserData": {
+        "action": "REGISTER_USER_DATA",
+        "description": "Register user data",
+        "http_verbs": ["POST"],
+        "api_function": controller.register_user_data,
     }
 }
 
