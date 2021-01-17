@@ -25,3 +25,14 @@ def test_health(app):
     res = app.get("/health")
     assert res.status_code == 200
     assert b"OK" in res.data
+
+
+def test_register_user_data(app):
+    payload = {
+        "age": "16 < x < 25"
+    }
+
+    res = app.post("/registerUserData", json=payload)
+
+    assert res.status_code == 200
+    assert b"OK" in res.data
