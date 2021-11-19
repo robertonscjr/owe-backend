@@ -1,6 +1,10 @@
-# ÒwE Monolithic
+# ÒWE MONOLITHIC BACK-END
 
-Olá, seja bem vind ao repositório da implementação back-end do ÒwE. Aqui você encontrará informações sobre como fazer o 'deployment' e como chamar este serviço.
+ÒWE, é um provérbio Iorubá que significa ajuda mútua. Pensando nisso, desenvolvemos uma plataforma para auxiliar o jovem que evadiu da escola a encontrar sua jornada em busca da formação profissionalizante. Através de trilhas básicas de aprendizagens, alinhadas à BNCC e aos Intinerários Formativos, é possível gerar relatórios e dados capazes de orientar o jovem em sua trilha de desenvolvimento profissional.
+
+Olá, seja bem vind ao repositório da implementação back-end do ÒWE. Aqui você encontrará informações sobre como fazer o 'deployment' e como chamar este serviço.
+
+Vídeo Pitch do [ÒWÉ aqui](https://www.youtube.com/watch?v=TDzSth-01GE)!
 
 ## Chamada de API
 
