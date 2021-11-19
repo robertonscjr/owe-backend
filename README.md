@@ -1,4 +1,4 @@
-# ÒWE MONOLITHIC BACK-END
+# ÒWE BACK-END
 
 ÒWE, é um provérbio Iorubá que significa ajuda mútua. Pensando nisso, desenvolvemos uma plataforma para auxiliar o jovem que evadiu da escola a encontrar sua jornada em busca da formação profissionalizante. Através de trilhas básicas de aprendizagens, alinhadas à BNCC e aos Intinerários Formativos, é possível gerar relatórios e dados capazes de orientar o jovem em sua trilha de desenvolvimento profissional.
 
